@@ -1,1 +1,0 @@
-print("Name:AAQIB AHMED KHAN\n Father's Name:Zaheer Ahmed Khan\n Date of Birth: 19-4-2004")
